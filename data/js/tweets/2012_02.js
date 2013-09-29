@@ -12,12 +12,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/A8vjRK"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "174628631384031232",
   "text" : "Traits in php 5.4.0 are pretty slick http://t.co/DNdm9DXi",
   "id" : 174628631384031232,
-  "created_at" : "Tue Feb 28 22:54:44 +0000 2012",
+  "created_at" : "2012-02-28 22:54:44 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -43,12 +42,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "twitpic.com/8pvu30"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "174576012070367232",
   "text" : "Golf at the new office! http://t.co/haaUU2xk #aimove",
   "id" : 174576012070367232,
-  "created_at" : "Tue Feb 28 19:25:39 +0000 2012",
+  "created_at" : "2012-02-28 19:25:39 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -77,12 +75,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/whB4Ne"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "174575388293480448",
   "text" : "Free $200 amazon gift card! (contest) http://t.co/OnlMrj49 via @appsumo",
   "id" : 174575388293480448,
-  "created_at" : "Tue Feb 28 19:23:10 +0000 2012",
+  "created_at" : "2012-02-28 19:23:10 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -113,12 +110,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/xiZxVB"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "174490989786968064",
   "text" : "Same Building, Sweet New Office : Our Blog : Alexander Interactive http://t.co/JLmJZIgq More Photos: http://t.co/vpcF6Yod  #AiMove",
   "id" : 174490989786968064,
-  "created_at" : "Tue Feb 28 13:47:48 +0000 2012",
+  "created_at" : "2012-02-28 13:47:48 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -154,8 +150,7 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "174169051101270016",
   "text" : "RT @ObservantArtist: @CrossfitProblms Tequila is made from agave... Agave is a plant... Plants are  #Paleo ...Ergo, tequila is #Paleo  \n ...",
   "retweeted_status" : {
@@ -179,14 +174,13 @@ Grailbird.data.tweets_2012_02 =
       "urls" : [ ]
     },
     "in_reply_to_status_id_str" : "173975403222937600",
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "173976467603062785",
     "in_reply_to_user_id" : 455455416,
     "text" : "@CrossfitProblms Tequila is made from agave... Agave is a plant... Plants are  #Paleo ...Ergo, tequila is #Paleo  \n\nBoom.",
     "id" : 173976467603062785,
     "in_reply_to_status_id" : 173975403222937600,
-    "created_at" : "Mon Feb 27 03:43:16 +0000 2012",
+    "created_at" : "2012-02-27 03:43:16 +0000",
     "in_reply_to_screen_name" : "CrossfitProblms",
     "in_reply_to_user_id_str" : "455455416",
     "user" : {
@@ -200,7 +194,7 @@ Grailbird.data.tweets_2012_02 =
     }
   },
   "id" : 174169051101270016,
-  "created_at" : "Mon Feb 27 16:28:32 +0000 2012",
+  "created_at" : "2012-02-27 16:28:32 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -213,17 +207,22 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Steven Lai",
+      "screen_name" : "stevenclai",
+      "indices" : [ 0, 11 ],
+      "id_str" : "1214370457",
+      "id" : 1214370457
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "173462537491324928",
   "text" : "@stevenclai Y the last man!",
   "id" : 173462537491324928,
-  "created_at" : "Sat Feb 25 17:41:06 +0000 2012",
+  "created_at" : "2012-02-25 17:41:06 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -257,13 +256,12 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "chesstactics.org"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "173434921044541443",
   "in_reply_to_user_id" : 6490602,
   "text" : "@rmurphey practice problems at http://t.co/ZNecrNVU or http://t.co/TT6KwYtO",
   "id" : 173434921044541443,
-  "created_at" : "Sat Feb 25 15:51:22 +0000 2012",
+  "created_at" : "2012-02-25 15:51:22 +0000",
   "in_reply_to_screen_name" : "rmurphey",
   "in_reply_to_user_id_str" : "6490602",
   "user" : {
@@ -289,13 +287,12 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "173247298074189824",
   "in_reply_to_user_id" : 7274972,
   "text" : "@bingopajamas see you soon!",
   "id" : 173247298074189824,
-  "created_at" : "Sat Feb 25 03:25:49 +0000 2012",
+  "created_at" : "2012-02-25 03:25:49 +0000",
   "in_reply_to_screen_name" : "bingopajamas",
   "in_reply_to_user_id_str" : "7274972",
   "user" : {
@@ -322,14 +319,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "172702456734679042",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "173101747340984320",
   "in_reply_to_user_id" : 16278142,
   "text" : "@BrainsLink informatica huh? interesting. we used it for a few years but it couldn't keep up with rapid changes",
   "id" : 173101747340984320,
   "in_reply_to_status_id" : 172702456734679042,
-  "created_at" : "Fri Feb 24 17:47:27 +0000 2012",
+  "created_at" : "2012-02-24 17:47:27 +0000",
   "in_reply_to_screen_name" : "BrainsLink",
   "in_reply_to_user_id_str" : "16278142",
   "user" : {
@@ -356,14 +352,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "173047026072825857",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "173047409004380161",
   "in_reply_to_user_id" : 15064817,
   "text" : "@nycmark nice! congrats!",
   "id" : 173047409004380161,
   "in_reply_to_status_id" : 173047026072825857,
-  "created_at" : "Fri Feb 24 14:11:32 +0000 2012",
+  "created_at" : "2012-02-24 14:11:32 +0000",
   "in_reply_to_screen_name" : "markkrieger",
   "in_reply_to_user_id_str" : "15064817",
   "user" : {
@@ -390,14 +385,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "172783658258800642",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "173033269447761920",
   "in_reply_to_user_id" : 15064817,
   "text" : "@nycmark rolling your own time tracker?",
   "id" : 173033269447761920,
   "in_reply_to_status_id" : 172783658258800642,
-  "created_at" : "Fri Feb 24 13:15:20 +0000 2012",
+  "created_at" : "2012-02-24 13:15:20 +0000",
   "in_reply_to_screen_name" : "markkrieger",
   "in_reply_to_user_id_str" : "15064817",
   "user" : {
@@ -429,13 +423,12 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "173031742343618560",
   "in_reply_to_user_id" : 17032606,
   "text" : "@dkmacleod totally! install an app on that fancy new iphone! I use tweetdeck, not sure what @anthonyholland uses",
   "id" : 173031742343618560,
-  "created_at" : "Fri Feb 24 13:09:16 +0000 2012",
+  "created_at" : "2012-02-24 13:09:16 +0000",
   "in_reply_to_screen_name" : "dkmacleod",
   "in_reply_to_user_id_str" : "17032606",
   "user" : {
@@ -451,19 +444,13 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Derek L",
-      "screen_name" : "XFIT4L",
-      "indices" : [ 10, 17 ],
-      "id_str" : "233577376",
-      "id" : 233577376
-    }, {
-      "name" : "Anton Kovalyov",
+      "name" : "Anton",
       "screen_name" : "valueof",
       "indices" : [ 18, 26 ],
       "id_str" : "18179447",
       "id" : 18179447
     }, {
-      "name" : "nick",
+      "name" : "Nick",
       "screen_name" : "duckumu",
       "indices" : [ 27, 35 ],
       "id_str" : "8938812",
@@ -484,13 +471,12 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/yaniyW"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172897650369232897",
   "in_reply_to_user_id" : 7261092,
   "text" : "@jessnyc9 @XFIT4L @valueof @duckumu @anthonyholland http://t.co/oWUmhHk1 Versus \"2nd place\" promo",
   "id" : 172897650369232897,
-  "created_at" : "Fri Feb 24 04:16:26 +0000 2012",
+  "created_at" : "2012-02-24 04:16:26 +0000",
   "in_reply_to_screen_name" : "jessicalippke",
   "in_reply_to_user_id_str" : "7261092",
   "user" : {
@@ -518,12 +504,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "twitpic.com/8np5fb"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172735724834140160",
   "text" : "Packing up the office #aimove http://t.co/3dKHSwqH",
   "id" : 172735724834140160,
-  "created_at" : "Thu Feb 23 17:33:00 +0000 2012",
+  "created_at" : "2012-02-23 17:33:00 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -546,12 +531,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "on.fb.me/wR0dr0"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172704691686350848",
   "text" : "Late night at the office last night. Had to jump the cafe table before we move to the new space http://t.co/yKdkZJyW",
   "id" : 172704691686350848,
-  "created_at" : "Thu Feb 23 15:29:41 +0000 2012",
+  "created_at" : "2012-02-23 15:29:41 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -565,26 +549,25 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike LeDoux",
-      "screen_name" : "zippgun",
+      "name" : "ZIPPGUN",
+      "screen_name" : "Zippgun",
       "indices" : [ 0, 8 ],
-      "id_str" : "208574531",
-      "id" : 208574531
+      "id_str" : "1257633822",
+      "id" : 1257633822
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "172685094006439936",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172686205727670273",
   "in_reply_to_user_id" : 208574531,
   "text" : "@zippgun stop breaking things",
   "id" : 172686205727670273,
   "in_reply_to_status_id" : 172685094006439936,
-  "created_at" : "Thu Feb 23 14:16:14 +0000 2012",
-  "in_reply_to_screen_name" : "zippgun",
+  "created_at" : "2012-02-23 14:16:14 +0000",
+  "in_reply_to_screen_name" : "mikeyledoux",
   "in_reply_to_user_id_str" : "208574531",
   "user" : {
     "name" : "Tim Broder",
@@ -598,27 +581,20 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Derek L",
-      "screen_name" : "XFIT4L",
-      "indices" : [ 0, 7 ],
-      "id_str" : "233577376",
-      "id" : 233577376
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "172680045419180032",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172681290330542080",
   "in_reply_to_user_id" : 233577376,
   "text" : "@XFIT4L again!?",
   "id" : 172681290330542080,
   "in_reply_to_status_id" : 172680045419180032,
-  "created_at" : "Thu Feb 23 13:56:42 +0000 2012",
-  "in_reply_to_screen_name" : "XFIT4L",
+  "created_at" : "2012-02-23 13:56:42 +0000",
+  "in_reply_to_screen_name" : "dereklippke",
   "in_reply_to_user_id_str" : "233577376",
   "user" : {
     "name" : "Tim Broder",
@@ -637,12 +613,11 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172680878156288001",
   "text" : "almost forgot pants today. almost",
   "id" : 172680878156288001,
-  "created_at" : "Thu Feb 23 13:55:04 +0000 2012",
+  "created_at" : "2012-02-23 13:55:04 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -667,14 +642,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "172471042072252416",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172547760174800896",
   "in_reply_to_user_id" : 19374881,
   "text" : "@jacksonps4 nexus does :-P",
   "id" : 172547760174800896,
   "in_reply_to_status_id" : 172471042072252416,
-  "created_at" : "Thu Feb 23 05:06:06 +0000 2012",
+  "created_at" : "2012-02-23 05:06:06 +0000",
   "in_reply_to_screen_name" : "jacksonps4",
   "in_reply_to_user_id_str" : "19374881",
   "user" : {
@@ -690,13 +664,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Derek L",
-      "screen_name" : "XFIT4L",
-      "indices" : [ 10, 17 ],
-      "id_str" : "233577376",
-      "id" : 233577376
-    }, {
-      "name" : "nick",
+      "name" : "Nick",
       "screen_name" : "duckumu",
       "indices" : [ 18, 26 ],
       "id_str" : "8938812",
@@ -712,13 +680,12 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172538593473069056",
   "in_reply_to_user_id" : 7261092,
   "text" : "@jessnyc9 @XFIT4L @duckumu just jumped the cafe table at @aiaio 8-)",
   "id" : 172538593473069056,
-  "created_at" : "Thu Feb 23 04:29:40 +0000 2012",
+  "created_at" : "2012-02-23 04:29:40 +0000",
   "in_reply_to_screen_name" : "jessicalippke",
   "in_reply_to_user_id_str" : "7261092",
   "user" : {
@@ -744,12 +711,11 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172397853652680704",
   "text" : "words cannot describe how much I love stackoverflow cc: @codinghorror",
   "id" : 172397853652680704,
-  "created_at" : "Wed Feb 22 19:10:25 +0000 2012",
+  "created_at" : "2012-02-22 19:10:25 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -779,14 +745,13 @@ Grailbird.data.tweets_2012_02 =
     } ]
   },
   "in_reply_to_status_id_str" : "172144344814460929",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172380393440423937",
   "in_reply_to_user_id" : 17870251,
   "text" : "@johnbender http://t.co/UW3yeGkh",
   "id" : 172380393440423937,
   "in_reply_to_status_id" : 172144344814460929,
-  "created_at" : "Wed Feb 22 18:01:03 +0000 2012",
+  "created_at" : "2012-02-22 18:01:03 +0000",
   "in_reply_to_screen_name" : "johnbender",
   "in_reply_to_user_id_str" : "17870251",
   "user" : {
@@ -813,14 +778,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "172318111863799808",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172320044590706689",
   "in_reply_to_user_id" : 14530593,
   "text" : "@plater I'm late in my retweets",
   "id" : 172320044590706689,
   "in_reply_to_status_id" : 172318111863799808,
-  "created_at" : "Wed Feb 22 14:01:14 +0000 2012",
+  "created_at" : "2012-02-22 14:01:14 +0000",
   "in_reply_to_screen_name" : "plater",
   "in_reply_to_user_id_str" : "14530593",
   "user" : {
@@ -846,12 +810,11 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172311012207378433",
   "text" : "RT @jessnyc9 \"Get the WOD out of the way, then go enjoy the rest of your day\" - Brandy bustin rhymes @ 6am @CrossFitQueens",
   "id" : 172311012207378433,
-  "created_at" : "Wed Feb 22 13:25:21 +0000 2012",
+  "created_at" : "2012-02-22 13:25:21 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -875,12 +838,11 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172310585545981952",
   "text" : "RT @kevinrose Fun fact: Zelda is 26yrs old today!",
   "id" : 172310585545981952,
-  "created_at" : "Wed Feb 22 13:23:39 +0000 2012",
+  "created_at" : "2012-02-22 13:23:39 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -905,14 +867,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "172144344814460929",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172288173823639553",
   "in_reply_to_user_id" : 17870251,
   "text" : "@johnbender totally. It's somewhere in my list",
   "id" : 172288173823639553,
   "in_reply_to_status_id" : 172144344814460929,
-  "created_at" : "Wed Feb 22 11:54:36 +0000 2012",
+  "created_at" : "2012-02-22 11:54:36 +0000",
   "in_reply_to_screen_name" : "johnbender",
   "in_reply_to_user_id_str" : "17870251",
   "user" : {
@@ -939,14 +900,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "172118053386076160",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172133089567449089",
   "in_reply_to_user_id" : 17870251,
   "text" : "@johnbender nap and I looked a few months ago. Didn't find much. Lmk if you do",
   "id" : 172133089567449089,
   "in_reply_to_status_id" : 172118053386076160,
-  "created_at" : "Wed Feb 22 01:38:21 +0000 2012",
+  "created_at" : "2012-02-22 01:38:21 +0000",
   "in_reply_to_screen_name" : "johnbender",
   "in_reply_to_user_id_str" : "17870251",
   "user" : {
@@ -973,14 +933,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "172068958407622658",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172074981474316288",
   "in_reply_to_user_id" : 19374881,
   "text" : "@jacksonps4 yeah I do. It's pretty elegant. Esp for high volume",
   "id" : 172074981474316288,
   "in_reply_to_status_id" : 172068958407622658,
-  "created_at" : "Tue Feb 21 21:47:27 +0000 2012",
+  "created_at" : "2012-02-21 21:47:27 +0000",
   "in_reply_to_screen_name" : "jacksonps4",
   "in_reply_to_user_id_str" : "19374881",
   "user" : {
@@ -1007,14 +966,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "172068958407622658",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "172069300100808707",
   "in_reply_to_user_id" : 19374881,
   "text" : "@jacksonps4 yessir! Though it looks like my node server is down",
   "id" : 172069300100808707,
   "in_reply_to_status_id" : 172068958407622658,
-  "created_at" : "Tue Feb 21 21:24:52 +0000 2012",
+  "created_at" : "2012-02-21 21:24:52 +0000",
   "in_reply_to_screen_name" : "jacksonps4",
   "in_reply_to_user_id_str" : "19374881",
   "user" : {
@@ -1039,12 +997,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/wPUMLk"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "171972398843830273",
   "text" : "The Oatmeal reads game of thrones http://t.co/8WmxQBZu hehehe cunthammer",
   "id" : 171972398843830273,
-  "created_at" : "Tue Feb 21 14:59:49 +0000 2012",
+  "created_at" : "2012-02-21 14:59:49 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1058,7 +1015,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nick",
+      "name" : "Nick",
       "screen_name" : "duckumu",
       "indices" : [ 0, 8 ],
       "id_str" : "8938812",
@@ -1069,14 +1026,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "171723151884025856",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "171725295429234689",
   "in_reply_to_user_id" : 8938812,
   "text" : "@duckumu just wait until jack has to mark his territory on EVERYTHING upstairs",
   "id" : 171725295429234689,
   "in_reply_to_status_id" : 171723151884025856,
-  "created_at" : "Mon Feb 20 22:37:55 +0000 2012",
+  "created_at" : "2012-02-20 22:37:55 +0000",
   "in_reply_to_screen_name" : "duckumu",
   "in_reply_to_user_id_str" : "8938812",
   "user" : {
@@ -1103,14 +1059,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "171621606781755392",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "171648545449967616",
   "in_reply_to_user_id" : 2373551,
   "text" : "@jakemarsh great book",
   "id" : 171648545449967616,
   "in_reply_to_status_id" : 171621606781755392,
-  "created_at" : "Mon Feb 20 17:32:56 +0000 2012",
+  "created_at" : "2012-02-20 17:32:56 +0000",
   "in_reply_to_screen_name" : "jakemarsh",
   "in_reply_to_user_id_str" : "2373551",
   "user" : {
@@ -1136,13 +1091,12 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "171232303048163329",
   "in_reply_to_user_id" : 610533,
   "text" : "@acedtect listening to last week's sword and laser. I was one of the chinese guys in Anything Goes in high school too!",
   "id" : 171232303048163329,
-  "created_at" : "Sun Feb 19 13:58:57 +0000 2012",
+  "created_at" : "2012-02-19 13:58:57 +0000",
   "in_reply_to_screen_name" : "acedtect",
   "in_reply_to_user_id_str" : "610533",
   "user" : {
@@ -1167,12 +1121,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "4sq.com/AqqnaP"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "170960986210172928",
   "text" : "Safe house was awesome (@ City Center 15: Cinema de Lux w/ 2 others) http://t.co/m37Sc7D8",
   "id" : 170960986210172928,
-  "created_at" : "Sat Feb 18 20:00:50 +0000 2012",
+  "created_at" : "2012-02-18 20:00:50 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1197,14 +1150,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "170616850999279616",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "170618934976983040",
   "in_reply_to_user_id" : 466726290,
   "text" : "@adamsaidthat but will it blend?",
   "id" : 170618934976983040,
   "in_reply_to_status_id" : 170616850999279616,
-  "created_at" : "Fri Feb 17 21:21:38 +0000 2012",
+  "created_at" : "2012-02-17 21:21:38 +0000",
   "in_reply_to_screen_name" : "adamsaidthat",
   "in_reply_to_user_id_str" : "466726290",
   "user" : {
@@ -1229,12 +1181,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "gizmo.do/Ai4SCB"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "170598455645966336",
   "text" : "Best. Technical College. Ad. Ever. http://t.co/qLuH3DjU",
   "id" : 170598455645966336,
-  "created_at" : "Fri Feb 17 20:00:16 +0000 2012",
+  "created_at" : "2012-02-17 20:00:16 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1259,14 +1210,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "170589803061067776",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "170594988789469187",
   "in_reply_to_user_id" : 16278142,
   "text" : "@BrainsLink that's insane",
   "id" : 170594988789469187,
   "in_reply_to_status_id" : 170589803061067776,
-  "created_at" : "Fri Feb 17 19:46:29 +0000 2012",
+  "created_at" : "2012-02-17 19:46:29 +0000",
   "in_reply_to_screen_name" : "BrainsLink",
   "in_reply_to_user_id_str" : "16278142",
   "user" : {
@@ -1297,12 +1247,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/yeiOft"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "170560326486605824",
   "text" : "Essential JavaScript Design Patterns For Beginners http://t.co/KG1LiPg4 via @addyosmani",
   "id" : 170560326486605824,
-  "created_at" : "Fri Feb 17 17:28:45 +0000 2012",
+  "created_at" : "2012-02-17 17:28:45 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1316,7 +1265,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anton Kovalyov",
+      "name" : "Anton",
       "screen_name" : "valueof",
       "indices" : [ 0, 8 ],
       "id_str" : "18179447",
@@ -1326,13 +1275,12 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "170542508860899329",
   "in_reply_to_user_id" : 18179447,
   "text" : "@valueof did you check out capybara when you were looking at phantom?",
   "id" : 170542508860899329,
-  "created_at" : "Fri Feb 17 16:17:57 +0000 2012",
+  "created_at" : "2012-02-17 16:17:57 +0000",
   "in_reply_to_screen_name" : "valueof",
   "in_reply_to_user_id_str" : "18179447",
   "user" : {
@@ -1348,7 +1296,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anton Kovalyov",
+      "name" : "Anton",
       "screen_name" : "valueof",
       "indices" : [ 18, 26 ],
       "id_str" : "18179447",
@@ -1369,12 +1317,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "tmblr.co/Z1tiRwGYLpR_"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "170542402967310337",
   "text" : "AWESOME! grats RT @valueof I did a muscle up today! Feeling pretty good about myself this evening. http://t.co/kTkbk7nS cc @lalannefitness",
   "id" : 170542402967310337,
-  "created_at" : "Fri Feb 17 16:17:32 +0000 2012",
+  "created_at" : "2012-02-17 16:17:32 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1397,12 +1344,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/xdUttA"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "170518736720240641",
   "text" : "Um. Yes: Full Metal Jousting on the History Channel http://t.co/nVE09aoW",
   "id" : 170518736720240641,
-  "created_at" : "Fri Feb 17 14:43:29 +0000 2012",
+  "created_at" : "2012-02-17 14:43:29 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1425,12 +1371,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/wXXgkb"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "170254026858954752",
   "text" : "A Memory of Light will be released on Jan 3!! http://t.co/Tg6OLJv1",
   "id" : 170254026858954752,
-  "created_at" : "Thu Feb 16 21:11:37 +0000 2012",
+  "created_at" : "2012-02-16 21:11:37 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1453,12 +1398,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/ACTakp"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "170174815410458624",
   "text" : "Redis powering the youporn rewrite. Looking forward to the slides on the rewrite presentation http://t.co/ILZaS7JR",
   "id" : 170174815410458624,
-  "created_at" : "Thu Feb 16 15:56:52 +0000 2012",
+  "created_at" : "2012-02-16 15:56:52 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1479,12 +1423,11 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "170170890183647234",
   "text" : "oh. hello #newtwitter I see what people were complaining about",
   "id" : 170170890183647234,
-  "created_at" : "Thu Feb 16 15:41:16 +0000 2012",
+  "created_at" : "2012-02-16 15:41:16 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1507,12 +1450,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/AzmY9J"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "170168519936327680",
   "text" : "Apple Mountain Lion news and messages beta download http://t.co/TGp84dH2",
   "id" : 170168519936327680,
-  "created_at" : "Thu Feb 16 15:31:51 +0000 2012",
+  "created_at" : "2012-02-16 15:31:51 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1526,13 +1468,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Derek L",
-      "screen_name" : "XFIT4L",
-      "indices" : [ 0, 7 ],
-      "id_str" : "233577376",
-      "id" : 233577376
-    }, {
-      "name" : "nick",
+      "name" : "Nick",
       "screen_name" : "duckumu",
       "indices" : [ 18, 26 ],
       "id_str" : "8938812",
@@ -1543,15 +1479,14 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "169909291996811265",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169929886591483904",
   "in_reply_to_user_id" : 233577376,
   "text" : "@XFIT4L @jessnyc9 @duckumu lame",
   "id" : 169929886591483904,
   "in_reply_to_status_id" : 169909291996811265,
-  "created_at" : "Wed Feb 15 23:43:36 +0000 2012",
-  "in_reply_to_screen_name" : "XFIT4L",
+  "created_at" : "2012-02-15 23:43:36 +0000",
+  "in_reply_to_screen_name" : "dereklippke",
   "in_reply_to_user_id_str" : "233577376",
   "user" : {
     "name" : "Tim Broder",
@@ -1566,7 +1501,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nick",
+      "name" : "Nick",
       "screen_name" : "duckumu",
       "indices" : [ 0, 8 ],
       "id_str" : "8938812",
@@ -1583,14 +1518,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "169879963812626432",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169885711124795392",
   "in_reply_to_user_id" : 8938812,
   "text" : "@duckumu @jessnyc9 @CrossFitQueens that looks more like a clean/jerk with a quick transition then a clean thruster",
   "id" : 169885711124795392,
   "in_reply_to_status_id" : 169879963812626432,
-  "created_at" : "Wed Feb 15 20:48:04 +0000 2012",
+  "created_at" : "2012-02-15 20:48:04 +0000",
   "in_reply_to_screen_name" : "duckumu",
   "in_reply_to_user_id_str" : "8938812",
   "user" : {
@@ -1605,7 +1539,13 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Steven Lai",
+      "screen_name" : "stevenclai",
+      "indices" : [ 10, 21 ],
+      "id_str" : "1214370457",
+      "id" : 1214370457
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -1615,12 +1555,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/ABs3jK"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169812721645268992",
   "text" : "Thanks to @stevenclai for another javascript podcast I have to listen to (javascript jabber) http://t.co/vjr4r85m",
   "id" : 169812721645268992,
-  "created_at" : "Wed Feb 15 15:58:02 +0000 2012",
+  "created_at" : "2012-02-15 15:58:02 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1645,14 +1584,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "169792139172126720",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169796948600172547",
   "in_reply_to_user_id" : 17870251,
   "text" : "@johnbender ahh. What are you rocking now?",
   "id" : 169796948600172547,
   "in_reply_to_status_id" : 169792139172126720,
-  "created_at" : "Wed Feb 15 14:55:21 +0000 2012",
+  "created_at" : "2012-02-15 14:55:21 +0000",
   "in_reply_to_screen_name" : "johnbender",
   "in_reply_to_user_id_str" : "17870251",
   "user" : {
@@ -1679,14 +1617,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "169440479434375168",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169796809735159808",
   "in_reply_to_user_id" : 20069639,
   "text" : "@Robson_N just got 8 gigs!",
   "id" : 169796809735159808,
   "in_reply_to_status_id" : 169440479434375168,
-  "created_at" : "Wed Feb 15 14:54:48 +0000 2012",
+  "created_at" : "2012-02-15 14:54:48 +0000",
   "in_reply_to_screen_name" : "Robson_N",
   "in_reply_to_user_id_str" : "20069639",
   "user" : {
@@ -1702,7 +1639,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anton Kovalyov",
+      "name" : "Anton",
       "screen_name" : "valueof",
       "indices" : [ 22, 30 ],
       "id_str" : "18179447",
@@ -1717,12 +1654,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/zXK8gd"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169793109344002048",
   "text" : "oh wow yeah it is. RT @valueof Hackershelf is awesome. http://t.co/OYGfPP2D",
   "id" : 169793109344002048,
-  "created_at" : "Wed Feb 15 14:40:06 +0000 2012",
+  "created_at" : "2012-02-15 14:40:06 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1747,14 +1683,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "169667011159404544",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169782845051641856",
   "in_reply_to_user_id" : 17870251,
   "text" : "@johnbender once you adjust to he keyboard size. (2 days) the big screen is awesome. Don't know if I could ever go back",
   "id" : 169782845051641856,
   "in_reply_to_status_id" : 169667011159404544,
-  "created_at" : "Wed Feb 15 13:59:19 +0000 2012",
+  "created_at" : "2012-02-15 13:59:19 +0000",
   "in_reply_to_screen_name" : "johnbender",
   "in_reply_to_user_id_str" : "17870251",
   "user" : {
@@ -1785,13 +1720,12 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "imgur.com/N2R4L"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169549833848365056",
   "in_reply_to_user_id" : 7274972,
   "text" : "@bingopajamas http://t.co/ErHzGAKa",
   "id" : 169549833848365056,
-  "created_at" : "Tue Feb 14 22:33:25 +0000 2012",
+  "created_at" : "2012-02-14 22:33:25 +0000",
   "in_reply_to_screen_name" : "bingopajamas",
   "in_reply_to_user_id_str" : "7274972",
   "user" : {
@@ -1818,14 +1752,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "169432172401405953",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169436259968753664",
   "in_reply_to_user_id" : 20069639,
   "text" : "@Robson_N or 6 gigs when you get enough referrals ;-)",
   "id" : 169436259968753664,
   "in_reply_to_status_id" : 169432172401405953,
-  "created_at" : "Tue Feb 14 15:02:07 +0000 2012",
+  "created_at" : "2012-02-14 15:02:07 +0000",
   "in_reply_to_screen_name" : "Robson_N",
   "in_reply_to_user_id_str" : "20069639",
   "user" : {
@@ -1851,12 +1784,11 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169408861667721216",
   "text" : ". @bingopajamas walking dead for valentines day?",
   "id" : 169408861667721216,
-  "created_at" : "Tue Feb 14 13:13:14 +0000 2012",
+  "created_at" : "2012-02-14 13:13:14 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1880,13 +1812,12 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169208907955306496",
   "in_reply_to_user_id" : 6428952,
   "text" : "@Kingsley1 wadja get?",
   "id" : 169208907955306496,
-  "created_at" : "Mon Feb 13 23:58:42 +0000 2012",
+  "created_at" : "2012-02-13 23:58:42 +0000",
   "in_reply_to_screen_name" : "Kingsley1",
   "in_reply_to_user_id_str" : "6428952",
   "user" : {
@@ -1908,15 +1839,14 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 42, 62 ],
       "url" : "http://t.co/sDm92G3n",
       "expanded_url" : "http://highscalability.com/blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html",
-      "display_url" : "highscalability.com/blog/2012/2/13…"
+      "display_url" : "highscalability.com/blog/2012/2/13\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169202946901409792",
   "text" : "Interesting read on tumblr's architecture http://t.co/sDm92G3n",
   "id" : 169202946901409792,
-  "created_at" : "Mon Feb 13 23:35:00 +0000 2012",
+  "created_at" : "2012-02-13 23:35:00 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1951,12 +1881,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/xOHIsE"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169142014531747842",
   "text" : "Neat Javascript library lets you reveal parts of your page upon scroll. Curtain.js: http://t.co/TD6Sinim via @jakemarsh via @dalmaer",
   "id" : 169142014531747842,
-  "created_at" : "Mon Feb 13 19:32:53 +0000 2012",
+  "created_at" : "2012-02-13 19:32:53 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -1982,16 +1911,15 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 12, 32 ],
       "url" : "http://t.co/X0Et5i71",
       "expanded_url" : "http://www.reddit.com/r/programming/comments/plui5/high_performance_java_libraries_yes_they_exist/",
-      "display_url" : "reddit.com/r/programming/…"
+      "display_url" : "reddit.com/r/programming/\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "169073058198454273",
   "in_reply_to_user_id" : 19374881,
   "text" : "@jacksonps4 http://t.co/X0Et5i71",
   "id" : 169073058198454273,
-  "created_at" : "Mon Feb 13 14:58:52 +0000 2012",
+  "created_at" : "2012-02-13 14:58:52 +0000",
   "in_reply_to_screen_name" : "jacksonps4",
   "in_reply_to_user_id_str" : "19374881",
   "user" : {
@@ -2018,14 +1946,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "168641914554429441",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "168687922969714688",
   "in_reply_to_user_id" : 19374881,
   "text" : "@jacksonps4 I switched that back as soon as I installed",
   "id" : 168687922969714688,
   "in_reply_to_status_id" : 168641914554429441,
-  "created_at" : "Sun Feb 12 13:28:29 +0000 2012",
+  "created_at" : "2012-02-12 13:28:29 +0000",
   "in_reply_to_screen_name" : "jacksonps4",
   "in_reply_to_user_id_str" : "19374881",
   "user" : {
@@ -2056,12 +1983,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "4sq.com/ykAWfa"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "168503432225894401",
   "text" : "Vday dinner with @bingopajamas :-) (@ Toscana Restaurant) http://t.co/6KNSRXEv",
   "id" : 168503432225894401,
-  "created_at" : "Sun Feb 12 01:15:23 +0000 2012",
+  "created_at" : "2012-02-12 01:15:23 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -2087,16 +2013,15 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 13, 33 ],
       "url" : "http://t.co/MncAaJ93",
       "expanded_url" : "http://www.mikecompton.com/miscpics/blogpics/malehamster.jpg",
-      "display_url" : "mikecompton.com/miscpics/blogp…"
+      "display_url" : "mikecompton.com/miscpics/blogp\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "168094501456445441",
   "in_reply_to_user_id" : 14271639,
   "text" : "@FirstAidKit http://t.co/MncAaJ93",
   "id" : 168094501456445441,
-  "created_at" : "Fri Feb 10 22:10:26 +0000 2012",
+  "created_at" : "2012-02-10 22:10:26 +0000",
   "in_reply_to_screen_name" : "FirstAidKit",
   "in_reply_to_user_id_str" : "14271639",
   "user" : {
@@ -2124,15 +2049,14 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 80, 100 ],
       "url" : "http://t.co/kaW4hlEP",
       "expanded_url" : "http://www.bgr.com/2012/02/10/unstoppable-file-sharing-network-tribler-spells-trouble-for-copyright-holders/",
-      "display_url" : "bgr.com/2012/02/10/uns…"
+      "display_url" : "bgr.com/2012/02/10/uns\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "168074925733724160",
-  "text" : "Unstoppable file-sharing network ‘Tribler’ spells trouble for copyright holders http://t.co/kaW4hlEP via @BGR",
+  "text" : "Unstoppable file-sharing network \u2018Tribler\u2019 spells trouble for copyright holders http://t.co/kaW4hlEP via @BGR",
   "id" : 168074925733724160,
-  "created_at" : "Fri Feb 10 20:52:39 +0000 2012",
+  "created_at" : "2012-02-10 20:52:39 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -2157,14 +2081,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "168016296758353921",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "168062417450967040",
   "in_reply_to_user_id" : 26280151,
   "text" : "@alexruthie and Marcie matched toren",
   "id" : 168062417450967040,
   "in_reply_to_status_id" : 168016296758353921,
-  "created_at" : "Fri Feb 10 20:02:57 +0000 2012",
+  "created_at" : "2012-02-10 20:02:57 +0000",
   "in_reply_to_screen_name" : "alexruthie",
   "in_reply_to_user_id_str" : "26280151",
   "user" : {
@@ -2195,12 +2118,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "huff.to/zLiyXa"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "168062269039710209",
   "text" : "Whaaaaat RT @jessnyc9 'Wet Hot American Summer' Sequel Is A Go! (VIDEO) http://t.co/W6u4DvCM via @HuffingtonPost",
   "id" : 168062269039710209,
-  "created_at" : "Fri Feb 10 20:02:22 +0000 2012",
+  "created_at" : "2012-02-10 20:02:22 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -2225,14 +2147,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "167990645850521600",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "168026459871514625",
   "in_reply_to_user_id" : 589903,
   "text" : "@brandice nah like 3 word answer. Or just \"yeah\" in the subject",
   "id" : 168026459871514625,
   "in_reply_to_status_id" : 167990645850521600,
-  "created_at" : "Fri Feb 10 17:40:04 +0000 2012",
+  "created_at" : "2012-02-10 17:40:04 +0000",
   "in_reply_to_screen_name" : "brandice",
   "in_reply_to_user_id_str" : "589903",
   "user" : {
@@ -2253,14 +2174,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "167970549300084737",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "167988585897799680",
   "in_reply_to_user_id" : 7261092,
   "text" : "@jessnyc9 someone opened the door for me this morning because I had a box. I was shocked",
   "id" : 167988585897799680,
   "in_reply_to_status_id" : 167970549300084737,
-  "created_at" : "Fri Feb 10 15:09:34 +0000 2012",
+  "created_at" : "2012-02-10 15:09:34 +0000",
   "in_reply_to_screen_name" : "jessicalippke",
   "in_reply_to_user_id_str" : "7261092",
   "user" : {
@@ -2287,14 +2207,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "167968615050645505",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "167988406952005632",
   "in_reply_to_user_id" : 589903,
   "text" : "@brandice what about someone who responds to a text via email?",
   "id" : 167988406952005632,
   "in_reply_to_status_id" : 167968615050645505,
-  "created_at" : "Fri Feb 10 15:08:51 +0000 2012",
+  "created_at" : "2012-02-10 15:08:51 +0000",
   "in_reply_to_screen_name" : "brandice",
   "in_reply_to_user_id_str" : "589903",
   "user" : {
@@ -2321,14 +2240,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "167964710438838272",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "167988285476573185",
   "in_reply_to_user_id" : 2210141,
   "text" : "@LorenDavie gotta add the Dave Nap style \"-L\"",
   "id" : 167988285476573185,
   "in_reply_to_status_id" : 167964710438838272,
-  "created_at" : "Fri Feb 10 15:08:22 +0000 2012",
+  "created_at" : "2012-02-10 15:08:22 +0000",
   "in_reply_to_screen_name" : "LorenDavie",
   "in_reply_to_user_id_str" : "2210141",
   "user" : {
@@ -2356,15 +2274,14 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 46, 66 ],
       "url" : "http://t.co/4b4Av0iL",
       "expanded_url" : "http://open.spotify.com/user/digster.fm/playlist/4T0YtZbMnjlBAs3jpinPfg",
-      "display_url" : "open.spotify.com/user/digster.f…"
+      "display_url" : "open.spotify.com/user/digster.f\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "167672957857038336",
   "text" : "#NowPlaying CLASSIC POWER BALLADS on #Spotify\nhttp://t.co/4b4Av0iL",
   "id" : 167672957857038336,
-  "created_at" : "Thu Feb 09 18:15:23 +0000 2012",
+  "created_at" : "2012-02-09 18:15:23 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -2383,14 +2300,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "167404836449566722",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "167417026711793664",
   "in_reply_to_user_id" : 7261092,
   "text" : "@jessnyc9 awesome",
   "id" : 167417026711793664,
   "in_reply_to_status_id" : 167404836449566722,
-  "created_at" : "Thu Feb 09 01:18:24 +0000 2012",
+  "created_at" : "2012-02-09 01:18:24 +0000",
   "in_reply_to_screen_name" : "jessicalippke",
   "in_reply_to_user_id_str" : "7261092",
   "user" : {
@@ -2421,12 +2337,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "babycatalog.target.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "167389469601832961",
   "text" : "Yay launches! RT @HofG Explore the latest and greatest for baby from Target - http://t.co/w6PJXtl6",
   "id" : 167389469601832961,
-  "created_at" : "Wed Feb 08 23:28:54 +0000 2012",
+  "created_at" : "2012-02-08 23:28:54 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -2446,17 +2361,11 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "24015507",
       "id" : 24015507
     }, {
-      "name" : "Anton Kovalyov",
+      "name" : "Anton",
       "screen_name" : "valueof",
       "indices" : [ 75, 83 ],
       "id_str" : "18179447",
       "id" : 18179447
-    }, {
-      "name" : "Derek L",
-      "screen_name" : "XFIT4L",
-      "indices" : [ 84, 91 ],
-      "id_str" : "233577376",
-      "id" : 233577376
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -2470,12 +2379,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/wcZ0YJ"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "167340071551373314",
   "text" : "reddit best #crossfit blogs http://t.co/qImRYwVa @jessnyc9 @anthonyholland @valueof @xfit4L",
   "id" : 167340071551373314,
-  "created_at" : "Wed Feb 08 20:12:36 +0000 2012",
+  "created_at" : "2012-02-08 20:12:36 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -2500,14 +2408,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "167242093708853248",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "167251278521577473",
   "in_reply_to_user_id" : 19374881,
   "text" : "@jacksonps4 nice!",
   "id" : 167251278521577473,
   "in_reply_to_status_id" : 167242093708853248,
-  "created_at" : "Wed Feb 08 14:19:46 +0000 2012",
+  "created_at" : "2012-02-08 14:19:46 +0000",
   "in_reply_to_screen_name" : "jacksonps4",
   "in_reply_to_user_id_str" : "19374881",
   "user" : {
@@ -2534,14 +2441,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "167241131623579649",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "167241736375119874",
   "in_reply_to_user_id" : 19374881,
   "text" : "@jacksonps4 php, python, js. Web all the way :-) to be honest its where I belong",
   "id" : 167241736375119874,
   "in_reply_to_status_id" : 167241131623579649,
-  "created_at" : "Wed Feb 08 13:41:51 +0000 2012",
+  "created_at" : "2012-02-08 13:41:51 +0000",
   "in_reply_to_screen_name" : "jacksonps4",
   "in_reply_to_user_id_str" : "19374881",
   "user" : {
@@ -2568,14 +2474,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "167228148939898880",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "167240685978796032",
   "in_reply_to_user_id" : 19374881,
   "text" : "@jacksonps4 was just thinking. It's 2.5 years since I've touched java",
   "id" : 167240685978796032,
   "in_reply_to_status_id" : 167228148939898880,
-  "created_at" : "Wed Feb 08 13:37:41 +0000 2012",
+  "created_at" : "2012-02-08 13:37:41 +0000",
   "in_reply_to_screen_name" : "jacksonps4",
   "in_reply_to_user_id_str" : "19374881",
   "user" : {
@@ -2602,14 +2507,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "166958307297337344",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "167027902423109632",
   "in_reply_to_user_id" : 8131122,
   "text" : "@cyanogen thanks for the update. Donated",
   "id" : 167027902423109632,
   "in_reply_to_status_id" : 166958307297337344,
-  "created_at" : "Tue Feb 07 23:32:09 +0000 2012",
+  "created_at" : "2012-02-07 23:32:09 +0000",
   "in_reply_to_screen_name" : "cyanogen",
   "in_reply_to_user_id_str" : "8131122",
   "user" : {
@@ -2629,12 +2533,11 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "167020353208594433",
   "text" : "Enjoying the chrome for Android beta",
   "id" : 167020353208594433,
-  "created_at" : "Tue Feb 07 23:02:09 +0000 2012",
+  "created_at" : "2012-02-07 23:02:09 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -2657,12 +2560,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/xoc6MQ"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "166902162146861056",
   "text" : "New Spider-man trailer looks sick. videos &gt; trailer http://t.co/sYitnZ8d",
   "id" : 166902162146861056,
-  "created_at" : "Tue Feb 07 15:12:31 +0000 2012",
+  "created_at" : "2012-02-07 15:12:31 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -2691,12 +2593,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/wVBEXz"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "166885626455666689",
   "text" : "Well Said! RT @alanstorm I wouldn't be able to do what I do w/o Stack Overflow so [god/greater-power] speed Jeff Atwood http://t.co/Bmdt9Qwg",
   "id" : 166885626455666689,
-  "created_at" : "Tue Feb 07 14:06:48 +0000 2012",
+  "created_at" : "2012-02-07 14:06:48 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -2721,14 +2622,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "166615118409506817",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "166697279481323520",
   "in_reply_to_user_id" : 7261092,
   "text" : "@jessnyc9 @alexruthie ya'll forgot house",
   "id" : 166697279481323520,
   "in_reply_to_status_id" : 166615118409506817,
-  "created_at" : "Tue Feb 07 01:38:23 +0000 2012",
+  "created_at" : "2012-02-07 01:38:23 +0000",
   "in_reply_to_screen_name" : "jessicalippke",
   "in_reply_to_user_id_str" : "7261092",
   "user" : {
@@ -2749,14 +2649,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "166675304331481088",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "166697241824854018",
   "in_reply_to_user_id" : 7261092,
   "text" : "@jessnyc9 go AM again tomorrow!",
   "id" : 166697241824854018,
   "in_reply_to_status_id" : 166675304331481088,
-  "created_at" : "Tue Feb 07 01:38:14 +0000 2012",
+  "created_at" : "2012-02-07 01:38:14 +0000",
   "in_reply_to_screen_name" : "jessicalippke",
   "in_reply_to_user_id_str" : "7261092",
   "user" : {
@@ -2771,17 +2670,22 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Steven Lai",
+      "screen_name" : "stevenclai",
+      "indices" : [ 0, 11 ],
+      "id_str" : "1214370457",
+      "id" : 1214370457
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "166643967524474880",
   "text" : "@stevenclai gogogo",
   "id" : 166643967524474880,
-  "created_at" : "Mon Feb 06 22:06:32 +0000 2012",
+  "created_at" : "2012-02-06 22:06:32 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -2806,14 +2710,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "166531013114216448",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "166610619540320256",
   "in_reply_to_user_id" : 26280151,
   "text" : "@alexruthie @jessnyc9 2ks eeeeeevil",
   "id" : 166610619540320256,
   "in_reply_to_status_id" : 166531013114216448,
-  "created_at" : "Mon Feb 06 19:54:01 +0000 2012",
+  "created_at" : "2012-02-06 19:54:01 +0000",
   "in_reply_to_screen_name" : "alexruthie",
   "in_reply_to_user_id_str" : "26280151",
   "user" : {
@@ -2844,13 +2747,12 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "screencast.com/t/ASvMlb2Zc1Aa"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "166606574599675906",
   "in_reply_to_user_id" : 16278142,
   "text" : "@BrainsLink http://t.co/hUY1P33F",
   "id" : 166606574599675906,
-  "created_at" : "Mon Feb 06 19:37:57 +0000 2012",
+  "created_at" : "2012-02-06 19:37:57 +0000",
   "in_reply_to_screen_name" : "BrainsLink",
   "in_reply_to_user_id_str" : "16278142",
   "user" : {
@@ -2879,12 +2781,11 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "166348098719858689",
   "text" : "RT @TweetOnwards You know you saw that. #MadonnaBoobieHair",
   "id" : 166348098719858689,
-  "created_at" : "Mon Feb 06 02:30:51 +0000 2012",
+  "created_at" : "2012-02-06 02:30:51 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -2913,12 +2814,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "4sq.com/z4dAU8"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "166302030514753537",
   "text" : "#superbowl #food (@ Dexter's Laboratory) [pic]: http://t.co/GGmWM2Y5",
   "id" : 166302030514753537,
-  "created_at" : "Sun Feb 05 23:27:48 +0000 2012",
+  "created_at" : "2012-02-05 23:27:48 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -2943,14 +2843,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "166246001491984384",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "166261407359307776",
   "in_reply_to_user_id" : 2210141,
   "text" : "@LorenDavie I like the way you think",
   "id" : 166261407359307776,
   "in_reply_to_status_id" : 166246001491984384,
-  "created_at" : "Sun Feb 05 20:46:23 +0000 2012",
+  "created_at" : "2012-02-05 20:46:23 +0000",
   "in_reply_to_screen_name" : "LorenDavie",
   "in_reply_to_user_id_str" : "2210141",
   "user" : {
@@ -2965,13 +2864,7 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Derek L",
-      "screen_name" : "XFIT4L",
-      "indices" : [ 0, 7 ],
-      "id_str" : "233577376",
-      "id" : 233577376
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -2981,14 +2874,13 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "yfrog.com/o0uv9xj"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "166243480862068736",
   "in_reply_to_user_id" : 233577376,
   "text" : "@XFIT4L @jessnyc9 incoming http://t.co/x12WrWLH",
   "id" : 166243480862068736,
-  "created_at" : "Sun Feb 05 19:35:09 +0000 2012",
-  "in_reply_to_screen_name" : "XFIT4L",
+  "created_at" : "2012-02-05 19:35:09 +0000",
+  "in_reply_to_screen_name" : "dereklippke",
   "in_reply_to_user_id_str" : "233577376",
   "user" : {
     "name" : "Tim Broder",
@@ -3019,13 +2911,12 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "166219461093888001",
   "in_reply_to_user_id" : 26280151,
   "text" : "@alexruthie @cajunmericle got a pile of silverware to donate to the office",
   "id" : 166219461093888001,
-  "created_at" : "Sun Feb 05 17:59:42 +0000 2012",
+  "created_at" : "2012-02-05 17:59:42 +0000",
   "in_reply_to_screen_name" : "alexruthie",
   "in_reply_to_user_id_str" : "26280151",
   "user" : {
@@ -3051,13 +2942,12 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "166177800242466816",
   "in_reply_to_user_id" : 14271639,
   "text" : "@FirstAidKit coding so saosin",
   "id" : 166177800242466816,
-  "created_at" : "Sun Feb 05 15:14:09 +0000 2012",
+  "created_at" : "2012-02-05 15:14:09 +0000",
   "in_reply_to_screen_name" : "FirstAidKit",
   "in_reply_to_user_id_str" : "14271639",
   "user" : {
@@ -3084,14 +2974,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "165636021285961728",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "165684247414325248",
   "in_reply_to_user_id" : 17284700,
   "text" : "@mayorjack rawr",
   "id" : 165684247414325248,
   "in_reply_to_status_id" : 165636021285961728,
-  "created_at" : "Sat Feb 04 06:32:57 +0000 2012",
+  "created_at" : "2012-02-04 06:32:57 +0000",
   "in_reply_to_screen_name" : "mayorjack",
   "in_reply_to_user_id_str" : "17284700",
   "user" : {
@@ -3119,12 +3008,6 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "15575472",
       "id" : 15575472
     }, {
-      "name" : "Derek L",
-      "screen_name" : "XFIT4L",
-      "indices" : [ 45, 52 ],
-      "id_str" : "233577376",
-      "id" : 233577376
-    }, {
       "name" : "Alex Ruthie Michael",
       "screen_name" : "alexruthie",
       "indices" : [ 53, 64 ],
@@ -3138,12 +3021,11 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "165589443766525953",
   "text" : "Haywire! With @bingopajamas @wlvrn @jessnyc9 @XFIT4L @alexruthie and #aiaio",
   "id" : 165589443766525953,
-  "created_at" : "Sat Feb 04 00:16:14 +0000 2012",
+  "created_at" : "2012-02-04 00:16:14 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -3169,12 +3051,6 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "15575472",
       "id" : 15575472
     }, {
-      "name" : "Derek L",
-      "screen_name" : "XFIT4L",
-      "indices" : [ 45, 52 ],
-      "id_str" : "233577376",
-      "id" : 233577376
-    }, {
       "name" : "Alex Ruthie Michael",
       "screen_name" : "alexruthie",
       "indices" : [ 53, 64 ],
@@ -3193,12 +3069,11 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "4sq.com/xfpRFG"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "165587821032259586",
   "text" : "Haywire! With @bingopajamas @wlvrn @jessnyc9 @XFIT4L @alexruthie and #aiaio (@ AMC Loews 19th St East 6 for Haywire) http://t.co/Ir6MZe5q",
   "id" : 165587821032259586,
-  "created_at" : "Sat Feb 04 00:09:47 +0000 2012",
+  "created_at" : "2012-02-04 00:09:47 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -3212,7 +3087,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nick",
+      "name" : "Nick",
       "screen_name" : "duckumu",
       "indices" : [ 3, 11 ],
       "id_str" : "8938812",
@@ -3222,12 +3097,11 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "165532289495859200",
   "text" : "RT @duckumu no offense michelle obama but it doesn't count as a pushup unless your chest touches the floor",
   "id" : 165532289495859200,
-  "created_at" : "Fri Feb 03 20:29:07 +0000 2012",
+  "created_at" : "2012-02-03 20:29:07 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -3265,8 +3139,7 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/w0rDS3"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "165514743807873025",
   "text" : "RT @addyosmani: Scaling Your JavaScript Applications (70 Minutes Of Videos & Slides) http://t.co/5MoT3yIt #javascript #patterns #modules ...",
   "retweeted_status" : {
@@ -3294,12 +3167,11 @@ Grailbird.data.tweets_2012_02 =
         "display_url" : "bit.ly/w0rDS3"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "165409476617318400",
     "text" : "Scaling Your JavaScript Applications (70 Minutes Of Videos & Slides) http://t.co/5MoT3yIt #javascript #patterns #modules #scale",
     "id" : 165409476617318400,
-    "created_at" : "Fri Feb 03 12:21:07 +0000 2012",
+    "created_at" : "2012-02-03 12:21:07 +0000",
     "user" : {
       "name" : "Addy Osmani",
       "screen_name" : "addyosmani",
@@ -3311,7 +3183,7 @@ Grailbird.data.tweets_2012_02 =
     }
   },
   "id" : 165514743807873025,
-  "created_at" : "Fri Feb 03 19:19:24 +0000 2012",
+  "created_at" : "2012-02-03 19:19:24 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -3325,7 +3197,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nick",
+      "name" : "Nick",
       "screen_name" : "duckumu",
       "indices" : [ 0, 8 ],
       "id_str" : "8938812",
@@ -3336,14 +3208,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "165467700741668865",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "165471081099042816",
   "in_reply_to_user_id" : 8938812,
   "text" : "@duckumu @jessnyc9 yelch mint tea. got some irish tea going over here :)",
   "id" : 165471081099042816,
   "in_reply_to_status_id" : 165467700741668865,
-  "created_at" : "Fri Feb 03 16:25:54 +0000 2012",
+  "created_at" : "2012-02-03 16:25:54 +0000",
   "in_reply_to_screen_name" : "duckumu",
   "in_reply_to_user_id_str" : "8938812",
   "user" : {
@@ -3370,14 +3241,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "165470142321528836",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "165470991600984065",
   "in_reply_to_user_id" : 466726290,
   "text" : "@adamsaidthat I would win",
   "id" : 165470991600984065,
   "in_reply_to_status_id" : 165470142321528836,
-  "created_at" : "Fri Feb 03 16:25:33 +0000 2012",
+  "created_at" : "2012-02-03 16:25:33 +0000",
   "in_reply_to_screen_name" : "adamsaidthat",
   "in_reply_to_user_id_str" : "466726290",
   "user" : {
@@ -3408,8 +3278,7 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "youtu.be/mxsFpglI97U"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "165455301049458688",
   "text" : "RT @jessnyc9: This would only happen at my office: http://t.co/hnWADOyu via @youtube",
   "retweeted_status" : {
@@ -3431,24 +3300,23 @@ Grailbird.data.tweets_2012_02 =
         "display_url" : "youtu.be/mxsFpglI97U"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "165253609221652480",
     "text" : "This would only happen at my office: http://t.co/hnWADOyu via @youtube",
     "id" : 165253609221652480,
-    "created_at" : "Fri Feb 03 02:01:45 +0000 2012",
+    "created_at" : "2012-02-03 02:01:45 +0000",
     "user" : {
       "name" : "Jessica Lippke",
       "screen_name" : "jessicalippke",
       "protected" : false,
       "id_str" : "7261092",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2727370127/1f6bd382d3b65b658823d1c75ae510ad_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000508211742/598ef6ae379c8c6ebca1f781dde9436a_normal.jpeg",
       "id" : 7261092,
       "verified" : false
     }
   },
   "id" : 165455301049458688,
-  "created_at" : "Fri Feb 03 15:23:12 +0000 2012",
+  "created_at" : "2012-02-03 15:23:12 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -3473,14 +3341,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "165250951098277888",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "165289789942267906",
   "in_reply_to_user_id" : 26280151,
   "text" : "@alexruthie @jessnyc9 over and over again",
   "id" : 165289789942267906,
   "in_reply_to_status_id" : 165250951098277888,
-  "created_at" : "Fri Feb 03 04:25:31 +0000 2012",
+  "created_at" : "2012-02-03 04:25:31 +0000",
   "in_reply_to_screen_name" : "alexruthie",
   "in_reply_to_user_id_str" : "26280151",
   "user" : {
@@ -3503,12 +3370,11 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "165262507760562176",
   "text" : "Watching Elijah wood dj #fader",
   "id" : 165262507760562176,
-  "created_at" : "Fri Feb 03 02:37:06 +0000 2012",
+  "created_at" : "2012-02-03 02:37:06 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -3539,14 +3405,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "165150259314569218",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "165166105692864512",
   "in_reply_to_user_id" : 6490602,
   "text" : "@rmurphey @rdio because spotify is awesome ;)",
   "id" : 165166105692864512,
   "in_reply_to_status_id" : 165150259314569218,
-  "created_at" : "Thu Feb 02 20:14:02 +0000 2012",
+  "created_at" : "2012-02-02 20:14:02 +0000",
   "in_reply_to_screen_name" : "rmurphey",
   "in_reply_to_user_id_str" : "6490602",
   "user" : {
@@ -3577,8 +3442,7 @@ Grailbird.data.tweets_2012_02 =
       "display_url" : "bit.ly/z8lIBg"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "165069829261373440",
   "text" : "RT @tferriss: Andy Lewis Squirrel Backflip [VIDEO]: http://t.co/f8WjvziF",
   "retweeted_status" : {
@@ -3594,12 +3458,11 @@ Grailbird.data.tweets_2012_02 =
         "display_url" : "bit.ly/z8lIBg"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "164736318503530496",
     "text" : "Andy Lewis Squirrel Backflip [VIDEO]: http://t.co/f8WjvziF",
     "id" : 164736318503530496,
-    "created_at" : "Wed Feb 01 15:46:13 +0000 2012",
+    "created_at" : "2012-02-01 15:46:13 +0000",
     "user" : {
       "name" : "Tim Ferriss",
       "screen_name" : "tferriss",
@@ -3611,7 +3474,7 @@ Grailbird.data.tweets_2012_02 =
     }
   },
   "id" : 165069829261373440,
-  "created_at" : "Thu Feb 02 13:51:28 +0000 2012",
+  "created_at" : "2012-02-02 13:51:28 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -3636,14 +3499,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "164743196918820864",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "165029313182310400",
   "in_reply_to_user_id" : 16686076,
   "text" : "@getify what's the next best after browsercam?",
   "id" : 165029313182310400,
   "in_reply_to_status_id" : 164743196918820864,
-  "created_at" : "Thu Feb 02 11:10:29 +0000 2012",
+  "created_at" : "2012-02-02 11:10:29 +0000",
   "in_reply_to_screen_name" : "getify",
   "in_reply_to_user_id_str" : "16686076",
   "user" : {
@@ -3670,14 +3532,13 @@ Grailbird.data.tweets_2012_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "164716935202873344",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "164724460220448769",
   "in_reply_to_user_id" : 19374881,
   "text" : "@jacksonps4 I need a copy of that!",
   "id" : 164724460220448769,
   "in_reply_to_status_id" : 164716935202873344,
-  "created_at" : "Wed Feb 01 14:59:06 +0000 2012",
+  "created_at" : "2012-02-01 14:59:06 +0000",
   "in_reply_to_screen_name" : "jacksonps4",
   "in_reply_to_user_id_str" : "19374881",
   "user" : {

@@ -14,14 +14,13 @@ Grailbird.data.tweets_2011_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "119772166920208384",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "119784484706074624",
   "in_reply_to_user_id" : 14271639,
   "text" : "@FirstAidKit link?",
   "id" : 119784484706074624,
   "in_reply_to_status_id" : 119772166920208384,
-  "created_at" : "Fri Sep 30 14:43:41 +0000 2011",
+  "created_at" : "2011-09-30 14:43:41 +0000",
   "in_reply_to_screen_name" : "FirstAidKit",
   "in_reply_to_user_id_str" : "14271639",
   "user" : {
@@ -53,13 +52,12 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "118760150201937922",
   "in_reply_to_user_id" : 20249175,
   "text" : "@Falcore000 , @bingopajamas started binging for xbox points",
   "id" : 118760150201937922,
-  "created_at" : "Tue Sep 27 18:53:20 +0000 2011",
+  "created_at" : "2011-09-27 18:53:20 +0000",
   "in_reply_to_screen_name" : "Falcore000",
   "in_reply_to_user_id_str" : "20249175",
   "user" : {
@@ -97,13 +95,12 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "118479807255298048",
   "in_reply_to_user_id" : 835871,
   "text" : "@cskilpatrick @JAFlanagan @ronxo any recommendations for any super/batman prose (origin) books? tried it's superman! didn't like style.",
   "id" : 118479807255298048,
-  "created_at" : "Tue Sep 27 00:19:21 +0000 2011",
+  "created_at" : "2011-09-27 00:19:21 +0000",
   "in_reply_to_screen_name" : "cskilpatrick",
   "in_reply_to_user_id_str" : "835871",
   "user" : {
@@ -129,8 +126,7 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "118101752242388992",
   "text" : "RT @realjohngreen: Incidentally, you can sign a petition to eliminate the penny (and the equally reprehensible nickel) here: http://t.co ...",
   "retweeted_status" : {
@@ -143,15 +139,14 @@ Grailbird.data.tweets_2011_09 =
         "indices" : [ 106, 126 ],
         "url" : "http://t.co/NcYEyJ3s",
         "expanded_url" : "https://wwws.whitehouse.gov/petitions/%21/petition/reform-coinage-system/Q0rspKM7?utm_source=wh.gov&utm_medium=shorturl&utm_campaign=shorturl",
-        "display_url" : "wwws.whitehouse.gov/petitions/%21/…"
+        "display_url" : "wwws.whitehouse.gov/petitions/%21/\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "117774008069521408",
     "text" : "Incidentally, you can sign a petition to eliminate the penny (and the equally reprehensible nickel) here: http://t.co/NcYEyJ3s",
     "id" : 117774008069521408,
-    "created_at" : "Sun Sep 25 01:34:46 +0000 2011",
+    "created_at" : "2011-09-25 01:34:46 +0000",
     "user" : {
       "name" : "John Green",
       "screen_name" : "realjohngreen",
@@ -163,7 +158,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 118101752242388992,
-  "created_at" : "Sun Sep 25 23:17:06 +0000 2011",
+  "created_at" : "2011-09-25 23:17:06 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -177,22 +172,21 @@ Grailbird.data.tweets_2011_09 =
   "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "delapaz",
+      "name" : "Karen Delapaz",
       "screen_name" : "delapaz",
       "indices" : [ 69, 77 ],
-      "id_str" : "14429625",
-      "id" : 14429625
+      "id_str" : "1242060210",
+      "id" : 1242060210
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "117677319887405057",
   "text" : "Half Marathon, check. Food, check. Suit, check. Time to get John and @delapaz married!",
   "id" : 117677319887405057,
-  "created_at" : "Sat Sep 24 19:10:34 +0000 2011",
+  "created_at" : "2011-09-24 19:10:34 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -216,8 +210,7 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "116881979911311360",
   "text" : "RT @anthonyholland: \"I am always doing that which I cannot do, in order that I may learn how to do it.\"\n- Pablo Picasso",
   "retweeted_status" : {
@@ -228,12 +221,11 @@ Grailbird.data.tweets_2011_09 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "116876906372141056",
     "text" : "\"I am always doing that which I cannot do, in order that I may learn how to do it.\"\n- Pablo Picasso",
     "id" : 116876906372141056,
-    "created_at" : "Thu Sep 22 14:10:00 +0000 2011",
+    "created_at" : "2011-09-22 14:10:00 +0000",
     "user" : {
       "name" : "Anthony Holland",
       "screen_name" : "anthonyholland",
@@ -245,7 +237,7 @@ Grailbird.data.tweets_2011_09 =
     }
   },
   "id" : 116881979911311360,
-  "created_at" : "Thu Sep 22 14:30:10 +0000 2011",
+  "created_at" : "2011-09-22 14:30:10 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -283,18 +275,17 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 60, 80 ],
       "url" : "http://t.co/A3XePG7J",
       "expanded_url" : "http://en.wikipedia.org/wiki/Sherlock_(TV_series)#Series_2_.282012.29",
-      "display_url" : "en.wikipedia.org/wiki/Sherlock_…"
+      "display_url" : "en.wikipedia.org/wiki/Sherlock_\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "116599386313719809",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "116608328947335168",
   "in_reply_to_user_id" : 14271639,
   "text" : "@FirstAidKit @bingopajamas @mrsshellbelle early 2012 now :( http://t.co/A3XePG7J",
   "id" : 116608328947335168,
   "in_reply_to_status_id" : 116599386313719809,
-  "created_at" : "Wed Sep 21 20:22:46 +0000 2011",
+  "created_at" : "2011-09-21 20:22:46 +0000",
   "in_reply_to_screen_name" : "FirstAidKit",
   "in_reply_to_user_id_str" : "14271639",
   "user" : {
@@ -310,26 +301,25 @@ Grailbird.data.tweets_2011_09 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike LeDoux",
-      "screen_name" : "zippgun",
+      "name" : "ZIPPGUN",
+      "screen_name" : "Zippgun",
       "indices" : [ 0, 8 ],
-      "id_str" : "208574531",
-      "id" : 208574531
+      "id_str" : "1257633822",
+      "id" : 1257633822
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "116589400464429056",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "116608126584750080",
   "in_reply_to_user_id" : 208574531,
   "text" : "@zippgun ud like it!",
   "id" : 116608126584750080,
   "in_reply_to_status_id" : 116589400464429056,
-  "created_at" : "Wed Sep 21 20:21:58 +0000 2011",
-  "in_reply_to_screen_name" : "zippgun",
+  "created_at" : "2011-09-21 20:21:58 +0000",
+  "in_reply_to_screen_name" : "mikeyledoux",
   "in_reply_to_user_id_str" : "208574531",
   "user" : {
     "name" : "Tim Broder",
@@ -367,14 +357,13 @@ Grailbird.data.tweets_2011_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "116318741255569408",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "116586191985446912",
   "in_reply_to_user_id" : 14271639,
   "text" : "@FirstAidKit @MrsShellBelle  sherlock = awesomesauce cc: @bingopajamas",
   "id" : 116586191985446912,
   "in_reply_to_status_id" : 116318741255569408,
-  "created_at" : "Wed Sep 21 18:54:48 +0000 2011",
+  "created_at" : "2011-09-21 18:54:48 +0000",
   "in_reply_to_screen_name" : "FirstAidKit",
   "in_reply_to_user_id_str" : "14271639",
   "user" : {
@@ -390,26 +379,25 @@ Grailbird.data.tweets_2011_09 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike LeDoux",
-      "screen_name" : "zippgun",
+      "name" : "ZIPPGUN",
+      "screen_name" : "Zippgun",
       "indices" : [ 0, 8 ],
-      "id_str" : "208574531",
-      "id" : 208574531
+      "id_str" : "1257633822",
+      "id" : 1257633822
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "116578975828029440",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "116586033520451584",
   "in_reply_to_user_id" : 208574531,
   "text" : "@zippgun get on spotify!",
   "id" : 116586033520451584,
   "in_reply_to_status_id" : 116578975828029440,
-  "created_at" : "Wed Sep 21 18:54:11 +0000 2011",
-  "in_reply_to_screen_name" : "zippgun",
+  "created_at" : "2011-09-21 18:54:11 +0000",
+  "in_reply_to_screen_name" : "mikeyledoux",
   "in_reply_to_user_id_str" : "208574531",
   "user" : {
     "name" : "Tim Broder",
@@ -434,13 +422,12 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "116568984991703040",
   "in_reply_to_user_id" : 31353077,
   "text" : "@NathanFillion please tell me Michael Dorn goes as Warf to Castle's Halloween party",
   "id" : 116568984991703040,
-  "created_at" : "Wed Sep 21 17:46:26 +0000 2011",
+  "created_at" : "2011-09-21 17:46:26 +0000",
   "in_reply_to_screen_name" : "NathanFillion",
   "in_reply_to_user_id_str" : "31353077",
   "user" : {
@@ -465,12 +452,11 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "bit.ly/rfp5wD"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "116550836850667521",
   "text" : "Hire For The Ability To Get Shit Done http://t.co/9pma9N6H",
   "id" : 116550836850667521,
-  "created_at" : "Wed Sep 21 16:34:19 +0000 2011",
+  "created_at" : "2011-09-21 16:34:19 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -495,14 +481,13 @@ Grailbird.data.tweets_2011_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "115370163121037314",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "115910369444237312",
   "in_reply_to_user_id" : 14271639,
   "text" : "@FirstAidKit I somehow became like 5 books behind on Drizzt....",
   "id" : 115910369444237312,
   "in_reply_to_status_id" : 115370163121037314,
-  "created_at" : "Mon Sep 19 22:09:20 +0000 2011",
+  "created_at" : "2011-09-19 22:09:20 +0000",
   "in_reply_to_screen_name" : "FirstAidKit",
   "in_reply_to_user_id_str" : "14271639",
   "user" : {
@@ -529,14 +514,13 @@ Grailbird.data.tweets_2011_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "115156437021372416",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "115299967983296512",
   "in_reply_to_user_id" : 14271639,
   "text" : "@FirstAidKit yessss. It comes back in October",
   "id" : 115299967983296512,
   "in_reply_to_status_id" : 115156437021372416,
-  "created_at" : "Sun Sep 18 05:43:49 +0000 2011",
+  "created_at" : "2011-09-18 05:43:49 +0000",
   "in_reply_to_screen_name" : "FirstAidKit",
   "in_reply_to_user_id_str" : "14271639",
   "user" : {
@@ -563,14 +547,13 @@ Grailbird.data.tweets_2011_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "114332354159448064",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114349647857856512",
   "in_reply_to_user_id" : 87013715,
   "text" : "@octopress cool. did I miss anything people would be looking for in a basic migration? categories?",
   "id" : 114349647857856512,
   "in_reply_to_status_id" : 114332354159448064,
-  "created_at" : "Thu Sep 15 14:47:35 +0000 2011",
+  "created_at" : "2011-09-15 14:47:35 +0000",
   "in_reply_to_screen_name" : "octopress",
   "in_reply_to_user_id_str" : "87013715",
   "user" : {
@@ -596,13 +579,12 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "114331061151989760",
   "in_reply_to_user_id" : 87013715,
   "text" : "@octopress any guides as of yet? I'm thinking of writing some scripts to deal with importing, 301's, images, etc this weekend",
   "id" : 114331061151989760,
-  "created_at" : "Thu Sep 15 13:33:43 +0000 2011",
+  "created_at" : "2011-09-15 13:33:43 +0000",
   "in_reply_to_screen_name" : "octopress",
   "in_reply_to_user_id_str" : "87013715",
   "user" : {
@@ -628,13 +610,12 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "113646763184889856",
   "in_reply_to_user_id" : 16640845,
   "text" : "@Hwaet 'grats on 2.0!",
   "id" : 113646763184889856,
-  "created_at" : "Tue Sep 13 16:14:34 +0000 2011",
+  "created_at" : "2011-09-13 16:14:34 +0000",
   "in_reply_to_screen_name" : "Hwaet",
   "in_reply_to_user_id_str" : "16640845",
   "user" : {
@@ -660,13 +641,12 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "112676603091369984",
   "in_reply_to_user_id" : 14271639,
   "text" : "@FirstAidKit yes! But too far away :(",
   "id" : 112676603091369984,
-  "created_at" : "Sat Sep 10 23:59:30 +0000 2011",
+  "created_at" : "2011-09-10 23:59:30 +0000",
   "in_reply_to_screen_name" : "FirstAidKit",
   "in_reply_to_user_id_str" : "14271639",
   "user" : {
@@ -697,15 +677,14 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 104, 123 ],
       "url" : "http://t.co/h0JR2dB",
       "expanded_url" : "http://games.crossfit.com/features/videos/coming-espn2",
-      "display_url" : "games.crossfit.com/features/video…"
+      "display_url" : "games.crossfit.com/features/video\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "111600614965919744",
   "text" : "For those of use that missed the games, ESPN2! RT @jessnyc9: Via @crossfitgames: Check out this video - http://t.co/h0JR2dB #crossfit",
   "id" : 111600614965919744,
-  "created_at" : "Thu Sep 08 00:43:54 +0000 2011",
+  "created_at" : "2011-09-08 00:43:54 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -728,12 +707,11 @@ Grailbird.data.tweets_2011_09 =
       "display_url" : "lifehac.kr/nXXP2x"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "111102130294751234",
   "text" : "8 Essential Bacon Hacks http://t.co/9B74afy",
   "id" : 111102130294751234,
-  "created_at" : "Tue Sep 06 15:43:06 +0000 2011",
+  "created_at" : "2011-09-06 15:43:06 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -757,8 +735,7 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "110363966089338881",
   "text" : "RT @bingopajamas: A Song of Ice and Fire drinking game: take a shot every time the author uses the word 'craven'",
   "retweeted_status" : {
@@ -769,24 +746,23 @@ Grailbird.data.tweets_2011_09 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "110323734715449344",
     "text" : "A Song of Ice and Fire drinking game: take a shot every time the author uses the word 'craven'",
     "id" : 110323734715449344,
-    "created_at" : "Sun Sep 04 12:10:02 +0000 2011",
+    "created_at" : "2011-09-04 12:10:02 +0000",
     "user" : {
       "name" : "Laura Broder",
       "screen_name" : "bingopajamas",
       "protected" : false,
       "id_str" : "7274972",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3054891556/2cb143a8163b89ff663819e274a5e759_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000105765244/412fc548c31712cb9af48d21f5fcdad5_normal.jpeg",
       "id" : 7274972,
       "verified" : false
     }
   },
   "id" : 110363966089338881,
-  "created_at" : "Sun Sep 04 14:49:54 +0000 2011",
+  "created_at" : "2011-09-04 14:49:54 +0000",
   "user" : {
     "name" : "Tim Broder",
     "screen_name" : "timothybroder",
@@ -810,13 +786,12 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "110009897864794112",
   "in_reply_to_user_id" : 14271639,
   "text" : "@FirstAidKit not just you :-/",
   "id" : 110009897864794112,
-  "created_at" : "Sat Sep 03 15:22:58 +0000 2011",
+  "created_at" : "2011-09-03 15:22:58 +0000",
   "in_reply_to_screen_name" : "FirstAidKit",
   "in_reply_to_user_id_str" : "14271639",
   "user" : {
@@ -843,14 +818,13 @@ Grailbird.data.tweets_2011_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "109625136939933696",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "109637080489000960",
   "in_reply_to_user_id" : 17027540,
   "text" : "@CNESEMAN NY PIZZA ALL THE WAY!! (disclaimer: I've only had uno's, just being biased ;)",
   "id" : 109637080489000960,
   "in_reply_to_status_id" : 109625136939933696,
-  "created_at" : "Fri Sep 02 14:41:31 +0000 2011",
+  "created_at" : "2011-09-02 14:41:31 +0000",
   "in_reply_to_screen_name" : "CNESEMAN",
   "in_reply_to_user_id_str" : "17027540",
   "user" : {
